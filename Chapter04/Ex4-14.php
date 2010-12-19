@@ -6,4 +6,6 @@ if ($a != $b)
 	echo "1";
 if ($a !== $b)
 	echo "2";
+	
+//Hola
 ?>
