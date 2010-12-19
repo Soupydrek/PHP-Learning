@@ -19,7 +19,7 @@
 	<dict>
 		<key>ExpandedURLs</key>
 		<array>
-			<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/PHP-Learning/Chapter04</string>
+			<string>file://localhost/Applications/XAMPP/xamppfiles/htdocs/PHP-Learning</string>
 		</array>
 	</dict>
 	<key>com.macrabbit.Espresso.Publisher.DisclosureCollapsed</key>
